@@ -4,10 +4,6 @@ features contains the column names of the TrainX and TestX
 ActivityType contains the column names for the Activity label and Activity names.
 
 In Step 4, we clean up the column names of the extracted data. Changes are:
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 old features | cleaned up features
 ------------ | -------------
