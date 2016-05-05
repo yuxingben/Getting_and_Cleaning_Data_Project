@@ -1,4 +1,4 @@
-# Step 1: 
+## Step 1: 
 TrainX ,  TrianY,  TestX,  TestY,  TrainSubject  and  TestSubject contain the data from the downloaded files.
 features contains the column names of the TrainX and TestX
 ActivityType contains the column names for the Activity label and Activity names.
@@ -8,7 +8,7 @@ Create a test set by Combining TestX, TestY and TestSubject, and name it TestDat
 
 Merge TrainData and TestDada into AllData, whose columns are named accordingly based on variables features and ActivityType.
 
-# In Step 4, we clean up the column names of the extracted data. Changes are:
+## In Step 4, we clean up the column names of the extracted data. Changes are:
 
 old features | cleaned up features
 ------------ | -------------
