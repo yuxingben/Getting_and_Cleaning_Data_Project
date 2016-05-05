@@ -4,6 +4,11 @@ features contains the column names of the TrainX and TestX
 ActivityType contains the column names for the Activity label and Activity names.
 
 In Step 4, we clean up the column names of the extracted data. Changes are:
+old features | cleaned up features
+------------ | -------------
+() | ""
+
+
 1) delete all the ();
 2) replace -std with StdDev;
 3) replace -mean with Mean;
