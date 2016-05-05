@@ -3,15 +3,15 @@ TrainX ,  TrianY,  TestX,  TestY,  TrainSubject  and  TestSubject contain the da
 features contains the column names of the TrainX and TestX
 ActivityType contains the column names for the Activity label and Activity names.
 
-*Create a test set by Combining TrainX, TrainY and TrainSubject, and name it TrainData;
-*Create a test set by Combining TestX, TestY and TestSubject, and name it TestData.
+* Create a test set by Combining TrainX, TrainY and TrainSubject, and name it TrainData;
+* Create a test set by Combining TestX, TestY and TestSubject, and name it TestData.
 
 Merge TrainData and TestDada into AllData, whose columns are named accordingly based on variables features and ActivityType.
 ## Step 2: Extracts only the measurements on the mean and standard deviation for each measurement. 
 
-*create a character vector with column names ColNames.
-*Extract column data by logical vector ExtractCol.
-*Save the data to ExtractData.
+* create a character vector with column names ColNames.
+* Extract column data by logical vector ExtractCol.
+* Save the data to ExtractData.
 
 ##Step 3.Uses descriptive activity names to name the activities in the data set ExtractData.
 
