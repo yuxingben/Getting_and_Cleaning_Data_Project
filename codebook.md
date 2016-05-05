@@ -8,11 +8,8 @@ In Step 4, we clean up the column names of the extracted data. Changes are:
 old features | cleaned up features
 ------------ | -------------
 () | ""
-
-
-1) delete all the ();
-2) replace -std with StdDev;
-3) replace -mean with Mean;
+ -std | StdDev;
+-mean | Mean;
 4) replace the beginning letter "t" with "Time";
 5) replace the beginning letter "f" with "Freq";
 6) replace gravity with Gravity;
