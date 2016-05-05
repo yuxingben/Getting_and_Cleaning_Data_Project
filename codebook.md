@@ -10,12 +10,12 @@ old features | cleaned up features
 () | ""
  -std | StdDev;
 -mean | Mean;
-4) replace the beginning letter "t" with "Time";
-5) replace the beginning letter "f" with "Freq";
-6) replace gravity with Gravity;
-7) replace bodybody or body with Body;
-8) replace gyro with Gyro;
-9) replace AccMag with AccMagnitude;
-10) replace [Bb]odyaccjerkmag with BodyAccJerkMagnitude;
-11) replace JerkMag with JerkMagnitude;
-12) replace GyroMag with GyroMagnitude;
+the beginning letter "t" | Time
+the beginning letter "f" | Freq
+gravity | Gravity;
+bodybody or body | Body;
+gyro | Gyro
+AccMag | AccMagnitude
+[Bb]odyaccjerkmag | BodyAccJerkMagnitude
+replace JerkMag | JerkMagnitude
+replace GyroMag | GyroMagnitude
